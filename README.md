@@ -12,7 +12,7 @@ You will always reach 1 for pretty much any number you can think of. Try it.
 
 ## Cool! How do I run this?
 
-You need Python installed
+You need Python installed.
 Edit the file with your number of choice on line 11, replacing ```5```
 
 ```
